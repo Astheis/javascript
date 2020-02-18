@@ -11,7 +11,7 @@ console.log(nameSurname);
 
 
 
-var whichName = ''
+var whichName = '' ;
 
 switch (whichName) {
     case 'Sarah':
