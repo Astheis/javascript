@@ -13,7 +13,7 @@ console.log(nameSurname);
 
 var whichName = ''
 
-switch (test) {
+switch (whichName) {
     case 'Sarah':
         alert('Sarah Connor ?');
 
